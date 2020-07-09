@@ -1,4 +1,8 @@
-![](https://javascript30.com/images/JS3-social-share.png)
+
+<p  align="center">
+<img  src="https://media.giphy.com/media/LWESmgwEAdz0qgtw5e/giphy.gif"  width="400" alt="Trap Box">
+</p>
+
 <p  align="center">
   <a  href="">
   <img  src="https://img.shields.io/github/stars/obrenoco/JavaScript30" />
