@@ -1,10 +1,4 @@
-<h1 align="center">Javascript 30</h1>
-
 ![](https://javascript30.com/images/JS3-social-share.png)
-
-
-
-
 <p  align="center">
   <a  href="">
   <img  src="https://img.shields.io/github/stars/obrenoco/JavaScript30" />
@@ -93,10 +87,6 @@ Feel free to **file a new issue** with a respective title and description on the
 Starter Files + Completed solutions for the JavaScript 30 Day Challenge.
 
 Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
-
-<p  align="center">
-<img  src="https://media1.giphy.com/media/zjdWIkMmV9lK/giphy.gif?cid=ecf05e47bbb850ef5ce18b5c5252e7fe10ee5bf80e590f7d&rid=giphy.gif"  width="400" alt="Barbershop">
-</p>
 
 
 # :closed_book: License
