@@ -36,7 +36,7 @@
 * [License](#closed_book-license)
 
 
-
+<br />
 
 # :rocket: Features
 
@@ -45,7 +45,7 @@
 
 
 
-
+<br />
 
 ## :robot: Technologies
 
@@ -56,7 +56,7 @@
 
 
 
-
+<br />
 
 # :construction_worker: Installation
 
@@ -73,7 +73,7 @@ SSH URLs provide access to a Git repository via SSH, a secure protocol. If you u
 
 
 
-
+<br />
 
 **Install dependencies**
 
@@ -82,7 +82,7 @@ SSH URLs provide access to a Git repository via SSH, a secure protocol. If you u
 
 
 
-
+<br />
 
 
 # :runner: Getting Started
@@ -94,7 +94,7 @@ In your browser enter
 
 
 
-
+<br />
 # :bug: Issues
 
 
@@ -103,7 +103,7 @@ Feel free to **file a new issue** with a respective title and description on the
 
 
 
-
+<br />
 
 
 # JavaScript30
