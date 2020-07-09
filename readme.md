@@ -1,7 +1,5 @@
 
-<p  align="center">
-<img  src="https://media.giphy.com/media/LWESmgwEAdz0qgtw5e/giphy.gif"  height="200" alt="Trap Box">
-</p>
+
 
 <p  align="center">
   <a  href="">
