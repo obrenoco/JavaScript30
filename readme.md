@@ -44,10 +44,18 @@
 
 
 
+
+
+
 ## :robot: Technologies
 
  * ⚛ **JavaScript** - The best programing language in the entire universe.
  * 💅 **Css** - Yeah, simple as that
+
+
+
+
+
 
 
 # :construction_worker: Installation
@@ -62,9 +70,18 @@ SSH URLs provide access to a Git repository via SSH, a secure protocol. If you u
 
 
 
+
+
+
+
+
 **Install dependencies**
 
 ```yarn install```
+
+
+
+
 
 
 
@@ -72,6 +89,10 @@ SSH URLs provide access to a Git repository via SSH, a secure protocol. If you u
 In your browser enter
 
     http://localhost:3000
+
+
+
+
 
 
 # :bug: Issues
@@ -82,11 +103,18 @@ Feel free to **file a new issue** with a respective title and description on the
 
 
 
+
+
+
 # JavaScript30
 
 Starter Files + Completed solutions for the JavaScript 30 Day Challenge.
 
 Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
+
+
+
+
 
 
 # :closed_book: License
